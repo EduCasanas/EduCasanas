@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="150" />
     <h2 align="center">Hi, I'm Edu Casañas 👋</h2>
     <h4 align="center">A mobile developer :iphone: with Flutter(Android & Ios)</h4>
 </div>
@@ -19,13 +19,10 @@
   
 ### About me :v:
 
-🌱 I’m currently learning **Kotlin** 
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+📱 I'm currently learning **Kotlin** 
+👀 I'm a curious person to learn new things   
+📚 My background:Petroleum engineer & Public management Master's Degree
+🏋️‍♂️ I do crossfit
   
 </div>
 
