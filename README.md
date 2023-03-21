@@ -19,7 +19,7 @@
   
 ### About me :v:
 
-📱 I'm currently learning **Kotlin** 
+📱 I'm currently learning **Algorithms and data structure** 
 👀 I'm a curious person to learn new things   
 📚 My background:Petroleum engineer & Public management Master's Degree
 🏋️‍♂️ I do crossfit
