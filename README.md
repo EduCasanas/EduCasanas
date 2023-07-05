@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="150" />
     <h2 align="center">Hi, I'm Edu Casañas 👋</h2>
-    <h4 align="center">A mobile developer :iphone: with Flutter(Android & Ios)</h4>
+    <h4 align="center">Web Developer</h4>
 </div>
 
 <div id="badges" align="center">    
