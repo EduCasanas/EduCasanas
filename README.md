@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <!-- <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="120" /> -->
     <h2 align="center">Hi👋, I'm Edu</h2>
-    <h4 align="center">Backend Developer .Net</h4>
+    <h4 align="center">Developer</h4>
 </div>
 
 <div id="badges" align="center">    
@@ -34,9 +34,9 @@
 <div align="center">  
     <h3>Languages and Tools🔨:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="60" height="60"/>&nbsp;
+        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="60" height="60"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  title="SQLServer" alt="SQLServer" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="DotNet" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="DotNet" width="60" height="60"/>&nbsp;-->
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
       </div>  
