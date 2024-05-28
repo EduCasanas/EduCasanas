@@ -23,7 +23,7 @@
 
 👀 I'm a curious person to learn new things
 
-📚 My background:Petroleum engineer & Public management Master's Degree
+<!--📚 My background:Petroleum engineer & Public management Master's Degree -->
 
 🏋️‍♂️ I do crossfit
   
